@@ -1,7 +1,5 @@
 package area;
 
-
-
 Abstract class Area {
     int r,l,b;
     //area constructor
